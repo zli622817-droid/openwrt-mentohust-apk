@@ -1,8 +1,6 @@
 # openwrt-mentohust-apk
-mentohust锐捷验证插件，ipk版本在25版本以上的openwrt不再适用，于是编译出apk版
-# OpenWRT MentoHUST APK 
+mentohust锐捷验证插件，ipk版本在25版本以上的openwrt不再适用，于是编译出apk版（包含二进制程序与 LuCI 界面）。
 
-一款专为高版本 OpenWrt 编译的 MentoHUST 锐捷校园网认证插件（包含二进制程序与 LuCI 界面）。
 
 ---
 
